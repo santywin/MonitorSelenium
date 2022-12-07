@@ -33,7 +33,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 paso = 0
 alerta = False
-path_base = 'C:\\Users\\Santiago\\Downloads\\monitor_servicios\\'
+path_base = 'C:\\Users\\Santiago\\Documents\\GitHub\\MonitorSelenium\\'
 log_actual = path_base + 'logs\\monitor_%s.log' % date.today().strftime('%Y%m%d')
 
 #path_base = '/home/edisson/PycharmProjects/monitor_servicios/'
@@ -105,7 +105,7 @@ class Monitor:
       #  self.driver.find_element_by_tag_name('body').send_keys(Keys.DOWN)
        
         
-        for x in range(1000, 1500):
+        for x in range(1, 500):
             
             try:
        
@@ -254,7 +254,7 @@ class Monitor:
         
         print(dft1)
         
-        dft1.to_excel(r'C:\Users\Santiago\Downloads\monitor_servicios\export_dataframe.xls', index = False, header=True)
+        dft1.to_excel(r'C:\Users\Santiago\Downloads\monitor_servicios\export_dataframe1.xls', index = False, header=True)
       #  self.driver.find_element(By.CSS_SELECTOR, "tr:nth-child(3) .btn").click()
       #  self.driver.find_element(By.CSS_SELECTOR, "td > .btn").click()
         

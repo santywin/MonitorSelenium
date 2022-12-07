@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 
 paso = 0
 alerta = False
-path_base = 'C:\\Users\\Santiago\\Downloads\\monitor_servicios\\'
+path_base = 'C:\\Users\\Santiago\\Documents\\GitHub\\MonitorSelenium\\'
 log_actual = path_base + 'logs/monitor_%s.log' % datetime.now().strftime('%Y%m%d')
 
 
@@ -86,7 +86,8 @@ class Monitor:
                                      ])
         
         #6636
-        for x in range(1, 8585):
+        for x in range(1, 9431):
+        #for x in range(1, 20):
             
             try:
                 #timeout = 1;
@@ -364,7 +365,10 @@ class Monitor:
                 self.driver.save_screenshot(path_base + "imagenes/error_%s_%02d.png" % (self.id, x))
                 pass
             
-        dft1.to_excel(r'C:\Users\Santiago\Downloads\monitor_servicios\export_dataframe_all.xls', index = False, header=True)
+        
+
+        
+        dft1.to_excel(r'C:\Users\Santiago\Documents\GitHub\MonitorSelenium\export_dataframe_all1.xlsx', index = False, header=True)
             
         test.finalizar_monitor()
 

@@ -1,0 +1,338 @@
+2022-10-17 10:04:17,607 INFO: --
+2022-10-17 10:04:17,607 INFO: Test de Servicios en Línea
+2022-10-17 10:04:17,608 INFO: Inicio: 2022-10-17 10:04:17
+2022-10-17 10:04:17,608 INFO: 
+2022-10-17 10:12:30,747 INFO: --
+2022-10-17 10:12:30,747 INFO: Test de Servicios en Línea
+2022-10-17 10:12:30,747 INFO: Inicio: 2022-10-17 10:12:30
+2022-10-17 10:12:30,748 INFO: 
+2022-10-17 10:13:00,137 INFO: --
+2022-10-17 10:13:00,137 INFO: Test de Servicios en Línea
+2022-10-17 10:13:00,138 INFO: Inicio: 2022-10-17 10:13:00
+2022-10-17 10:13:00,138 INFO: 
+2022-10-17 10:16:14,373 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EE3A430>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f3df4dda57a9656a5113ed4614afc488/screenshot
+2022-10-17 10:16:18,437 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EED51C0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f3df4dda57a9656a5113ed4614afc488/screenshot
+2022-10-17 10:16:22,505 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1ED47F40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f3df4dda57a9656a5113ed4614afc488/screenshot
+2022-10-17 10:21:57,918 INFO: --
+2022-10-17 10:21:57,918 INFO: --
+2022-10-17 10:21:57,918 INFO: Test de Servicios en Línea
+2022-10-17 10:21:57,918 INFO: Test de Servicios en Línea
+2022-10-17 10:21:57,918 INFO: Inicio: 2022-10-17 10:21:57
+2022-10-17 10:21:57,918 INFO: Inicio: 2022-10-17 10:21:57
+2022-10-17 10:21:57,918 INFO: 
+2022-10-17 10:21:57,918 INFO: 
+2022-10-17 10:25:17,004 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1D915B50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0cc045f606948e5ec69a53b24906c750
+2022-10-17 10:25:17,004 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1D915B50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0cc045f606948e5ec69a53b24906c750
+2022-10-17 10:25:21,109 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC3DAC0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0cc045f606948e5ec69a53b24906c750
+2022-10-17 10:25:21,109 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC3DAC0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0cc045f606948e5ec69a53b24906c750
+2022-10-17 10:25:25,206 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC3DE50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0cc045f606948e5ec69a53b24906c750
+2022-10-17 10:25:25,206 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC3DE50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0cc045f606948e5ec69a53b24906c750
+2022-10-17 10:25:29,295 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:25:29,295 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:25:29,295 INFO: 
+2022-10-17 10:25:29,295 INFO: 
+2022-10-17 10:25:29,296 INFO: Fin: 2022-10-17 10:25:29
+2022-10-17 10:25:29,296 INFO: Fin: 2022-10-17 10:25:29
+2022-10-17 10:28:36,284 INFO: --
+2022-10-17 10:28:36,284 INFO: --
+2022-10-17 10:28:36,284 INFO: --
+2022-10-17 10:28:36,284 INFO: Test de Servicios en Línea
+2022-10-17 10:28:36,284 INFO: Test de Servicios en Línea
+2022-10-17 10:28:36,284 INFO: Test de Servicios en Línea
+2022-10-17 10:28:36,285 INFO: Inicio: 2022-10-17 10:28:36
+2022-10-17 10:28:36,285 INFO: Inicio: 2022-10-17 10:28:36
+2022-10-17 10:28:36,285 INFO: Inicio: 2022-10-17 10:28:36
+2022-10-17 10:28:36,285 INFO: 
+2022-10-17 10:28:36,285 INFO: 
+2022-10-17 10:28:36,285 INFO: 
+2022-10-17 10:31:20,456 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F716490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:20,456 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F716490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:20,456 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F716490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:24,555 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F716B50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:24,555 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F716B50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:24,555 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F716B50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:28,640 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F7163D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:28,640 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F7163D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:28,640 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F7163D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/04c7fe0e68210cf00919f5561a7b37b3
+2022-10-17 10:31:32,737 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:31:32,737 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:31:32,737 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:31:32,738 INFO: 
+2022-10-17 10:31:32,738 INFO: 
+2022-10-17 10:31:32,738 INFO: 
+2022-10-17 10:31:32,738 INFO: Fin: 2022-10-17 10:31:32
+2022-10-17 10:31:32,738 INFO: Fin: 2022-10-17 10:31:32
+2022-10-17 10:31:32,738 INFO: Fin: 2022-10-17 10:31:32
+2022-10-17 10:36:33,284 INFO: --
+2022-10-17 10:36:33,284 INFO: --
+2022-10-17 10:36:33,284 INFO: --
+2022-10-17 10:36:33,284 INFO: --
+2022-10-17 10:36:33,284 INFO: Test de Servicios en Línea
+2022-10-17 10:36:33,284 INFO: Test de Servicios en Línea
+2022-10-17 10:36:33,284 INFO: Test de Servicios en Línea
+2022-10-17 10:36:33,284 INFO: Test de Servicios en Línea
+2022-10-17 10:36:33,284 INFO: Inicio: 2022-10-17 10:36:33
+2022-10-17 10:36:33,284 INFO: Inicio: 2022-10-17 10:36:33
+2022-10-17 10:36:33,284 INFO: Inicio: 2022-10-17 10:36:33
+2022-10-17 10:36:33,284 INFO: Inicio: 2022-10-17 10:36:33
+2022-10-17 10:36:33,285 INFO: 
+2022-10-17 10:36:33,285 INFO: 
+2022-10-17 10:36:33,285 INFO: 
+2022-10-17 10:36:33,285 INFO: 
+2022-10-17 10:39:35,580 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F1CF850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:35,580 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F1CF850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:35,580 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F1CF850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:35,580 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F1CF850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:39,657 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB640>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:39,657 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB640>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:39,657 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB640>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:39,657 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB640>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:43,739 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F6A0490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:43,739 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F6A0490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:43,739 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F6A0490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:39:43,739 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F6A0490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/7b2ebfea7eba6780f9812ee0afe27e10/screenshot
+2022-10-17 10:44:29,137 INFO: --
+2022-10-17 10:44:29,137 INFO: --
+2022-10-17 10:44:29,137 INFO: --
+2022-10-17 10:44:29,137 INFO: --
+2022-10-17 10:44:29,137 INFO: --
+2022-10-17 10:44:29,137 INFO: Test de Servicios en Línea
+2022-10-17 10:44:29,137 INFO: Test de Servicios en Línea
+2022-10-17 10:44:29,137 INFO: Test de Servicios en Línea
+2022-10-17 10:44:29,137 INFO: Test de Servicios en Línea
+2022-10-17 10:44:29,137 INFO: Test de Servicios en Línea
+2022-10-17 10:44:29,137 INFO: Inicio: 2022-10-17 10:44:29
+2022-10-17 10:44:29,137 INFO: Inicio: 2022-10-17 10:44:29
+2022-10-17 10:44:29,137 INFO: Inicio: 2022-10-17 10:44:29
+2022-10-17 10:44:29,137 INFO: Inicio: 2022-10-17 10:44:29
+2022-10-17 10:44:29,137 INFO: Inicio: 2022-10-17 10:44:29
+2022-10-17 10:44:29,137 INFO: 
+2022-10-17 10:44:29,137 INFO: 
+2022-10-17 10:44:29,137 INFO: 
+2022-10-17 10:44:29,137 INFO: 
+2022-10-17 10:44:29,137 INFO: 
+2022-10-17 10:47:15,946 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EF56850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:15,946 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EF56850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:15,946 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EF56850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:15,946 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EF56850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:15,946 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EF56850>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:20,027 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:20,027 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:20,027 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:20,027 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:20,027 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F3AB490>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:24,137 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1D35CD90>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:24,137 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1D35CD90>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:24,137 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1D35CD90>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:24,137 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1D35CD90>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:47:24,137 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1D35CD90>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/b32a269e77c5de33ca04125cecc3518e/screenshot
+2022-10-17 10:55:26,467 INFO: --
+2022-10-17 10:55:26,467 INFO: --
+2022-10-17 10:55:26,467 INFO: --
+2022-10-17 10:55:26,467 INFO: --
+2022-10-17 10:55:26,467 INFO: --
+2022-10-17 10:55:26,467 INFO: --
+2022-10-17 10:55:26,468 INFO: Test de Servicios en Línea
+2022-10-17 10:55:26,468 INFO: Test de Servicios en Línea
+2022-10-17 10:55:26,468 INFO: Test de Servicios en Línea
+2022-10-17 10:55:26,468 INFO: Test de Servicios en Línea
+2022-10-17 10:55:26,468 INFO: Test de Servicios en Línea
+2022-10-17 10:55:26,468 INFO: Test de Servicios en Línea
+2022-10-17 10:55:26,468 INFO: Inicio: 2022-10-17 10:55:26
+2022-10-17 10:55:26,468 INFO: Inicio: 2022-10-17 10:55:26
+2022-10-17 10:55:26,468 INFO: Inicio: 2022-10-17 10:55:26
+2022-10-17 10:55:26,468 INFO: Inicio: 2022-10-17 10:55:26
+2022-10-17 10:55:26,468 INFO: Inicio: 2022-10-17 10:55:26
+2022-10-17 10:55:26,468 INFO: Inicio: 2022-10-17 10:55:26
+2022-10-17 10:55:26,468 INFO: 
+2022-10-17 10:55:26,468 INFO: 
+2022-10-17 10:55:26,468 INFO: 
+2022-10-17 10:55:26,468 INFO: 
+2022-10-17 10:55:26,468 INFO: 
+2022-10-17 10:55:26,468 INFO: 
+2022-10-17 10:58:10,011 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51730>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:10,011 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51730>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:10,011 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51730>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:10,011 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51730>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:10,011 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51730>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:10,011 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51730>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:14,078 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51610>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:14,078 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51610>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:14,078 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51610>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:14,078 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51610>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:14,078 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51610>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:14,078 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51610>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:18,157 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51760>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:18,157 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51760>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:18,157 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51760>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:18,157 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51760>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:18,157 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51760>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:18,157 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1EC51760>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0af750da604c089ce0914e4b7e25b4bd
+2022-10-17 10:58:22,250 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:58:22,250 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:58:22,250 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:58:22,250 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:58:22,250 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:58:22,250 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 10:58:22,251 INFO: 
+2022-10-17 10:58:22,251 INFO: 
+2022-10-17 10:58:22,251 INFO: 
+2022-10-17 10:58:22,251 INFO: 
+2022-10-17 10:58:22,251 INFO: 
+2022-10-17 10:58:22,251 INFO: 
+2022-10-17 10:58:22,252 INFO: Fin: 2022-10-17 10:58:22
+2022-10-17 10:58:22,252 INFO: Fin: 2022-10-17 10:58:22
+2022-10-17 10:58:22,252 INFO: Fin: 2022-10-17 10:58:22
+2022-10-17 10:58:22,252 INFO: Fin: 2022-10-17 10:58:22
+2022-10-17 10:58:22,252 INFO: Fin: 2022-10-17 10:58:22
+2022-10-17 10:58:22,252 INFO: Fin: 2022-10-17 10:58:22
+2022-10-17 11:10:53,821 INFO: --
+2022-10-17 11:10:53,821 INFO: --
+2022-10-17 11:10:53,821 INFO: --
+2022-10-17 11:10:53,821 INFO: --
+2022-10-17 11:10:53,821 INFO: --
+2022-10-17 11:10:53,821 INFO: --
+2022-10-17 11:10:53,821 INFO: --
+2022-10-17 11:10:53,822 INFO: Test de Servicios en Línea
+2022-10-17 11:10:53,822 INFO: Test de Servicios en Línea
+2022-10-17 11:10:53,822 INFO: Test de Servicios en Línea
+2022-10-17 11:10:53,822 INFO: Test de Servicios en Línea
+2022-10-17 11:10:53,822 INFO: Test de Servicios en Línea
+2022-10-17 11:10:53,822 INFO: Test de Servicios en Línea
+2022-10-17 11:10:53,822 INFO: Test de Servicios en Línea
+2022-10-17 11:10:53,823 INFO: Inicio: 2022-10-17 11:10:53
+2022-10-17 11:10:53,823 INFO: Inicio: 2022-10-17 11:10:53
+2022-10-17 11:10:53,823 INFO: Inicio: 2022-10-17 11:10:53
+2022-10-17 11:10:53,823 INFO: Inicio: 2022-10-17 11:10:53
+2022-10-17 11:10:53,823 INFO: Inicio: 2022-10-17 11:10:53
+2022-10-17 11:10:53,823 INFO: Inicio: 2022-10-17 11:10:53
+2022-10-17 11:10:53,823 INFO: Inicio: 2022-10-17 11:10:53
+2022-10-17 11:10:53,823 INFO: 
+2022-10-17 11:10:53,823 INFO: 
+2022-10-17 11:10:53,823 INFO: 
+2022-10-17 11:10:53,823 INFO: 
+2022-10-17 11:10:53,823 INFO: 
+2022-10-17 11:10:53,823 INFO: 
+2022-10-17 11:10:53,823 INFO: 
+2022-10-17 11:14:59,125 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AA30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:14:59,125 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AA30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:14:59,125 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AA30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:14:59,125 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AA30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:14:59,125 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AA30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:14:59,125 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AA30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:14:59,125 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AA30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:03,216 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AC10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:03,216 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AC10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:03,216 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AC10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:03,216 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AC10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:03,216 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AC10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:03,216 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AC10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:03,216 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84AC10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:07,325 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84A8E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:07,325 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84A8E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:07,325 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84A8E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:07,325 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84A8E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:07,325 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84A8E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:07,325 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84A8E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:07,325 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B1F84A8E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/33f5b2952fa0bffcb1bf63b17384ead4
+2022-10-17 11:15:11,407 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 11:15:11,407 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 11:15:11,407 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 11:15:11,407 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 11:15:11,407 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 11:15:11,407 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 11:15:11,407 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-17 11:15:11,407 INFO: 
+2022-10-17 11:15:11,407 INFO: 
+2022-10-17 11:15:11,407 INFO: 
+2022-10-17 11:15:11,407 INFO: 
+2022-10-17 11:15:11,407 INFO: 
+2022-10-17 11:15:11,407 INFO: 
+2022-10-17 11:15:11,407 INFO: 
+2022-10-17 11:15:11,408 INFO: Fin: 2022-10-17 11:15:11
+2022-10-17 11:15:11,408 INFO: Fin: 2022-10-17 11:15:11
+2022-10-17 11:15:11,408 INFO: Fin: 2022-10-17 11:15:11
+2022-10-17 11:15:11,408 INFO: Fin: 2022-10-17 11:15:11
+2022-10-17 11:15:11,408 INFO: Fin: 2022-10-17 11:15:11
+2022-10-17 11:15:11,408 INFO: Fin: 2022-10-17 11:15:11
+2022-10-17 11:15:11,408 INFO: Fin: 2022-10-17 11:15:11
+2022-10-17 11:19:55,573 INFO: --
+2022-10-17 11:19:55,573 INFO: --
+2022-10-17 11:19:55,573 INFO: --
+2022-10-17 11:19:55,573 INFO: --
+2022-10-17 11:19:55,573 INFO: --
+2022-10-17 11:19:55,573 INFO: --
+2022-10-17 11:19:55,573 INFO: --
+2022-10-17 11:19:55,573 INFO: --
+2022-10-17 11:19:55,573 INFO: Test de Servicios en Línea
+2022-10-17 11:19:55,573 INFO: Test de Servicios en Línea
+2022-10-17 11:19:55,573 INFO: Test de Servicios en Línea
+2022-10-17 11:19:55,573 INFO: Test de Servicios en Línea
+2022-10-17 11:19:55,573 INFO: Test de Servicios en Línea
+2022-10-17 11:19:55,573 INFO: Test de Servicios en Línea
+2022-10-17 11:19:55,573 INFO: Test de Servicios en Línea
+2022-10-17 11:19:55,573 INFO: Test de Servicios en Línea
+2022-10-17 11:19:55,574 INFO: Inicio: 2022-10-17 11:19:55
+2022-10-17 11:19:55,574 INFO: Inicio: 2022-10-17 11:19:55
+2022-10-17 11:19:55,574 INFO: Inicio: 2022-10-17 11:19:55
+2022-10-17 11:19:55,574 INFO: Inicio: 2022-10-17 11:19:55
+2022-10-17 11:19:55,574 INFO: Inicio: 2022-10-17 11:19:55
+2022-10-17 11:19:55,574 INFO: Inicio: 2022-10-17 11:19:55
+2022-10-17 11:19:55,574 INFO: Inicio: 2022-10-17 11:19:55
+2022-10-17 11:19:55,574 INFO: Inicio: 2022-10-17 11:19:55
+2022-10-17 11:19:55,574 INFO: 
+2022-10-17 11:19:55,574 INFO: 
+2022-10-17 11:19:55,574 INFO: 
+2022-10-17 11:19:55,574 INFO: 
+2022-10-17 11:19:55,574 INFO: 
+2022-10-17 11:19:55,574 INFO: 
+2022-10-17 11:19:55,574 INFO: 
+2022-10-17 11:19:55,574 INFO: 
+2022-10-18 10:19:20,404 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:20,404 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:20,404 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:20,404 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:20,404 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:20,404 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:20,404 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:20,404 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007C40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:24,489 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007D60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:24,489 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007D60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:24,489 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007D60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:24,489 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007D60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:24,489 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007D60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:24,489 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007D60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:24,489 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007D60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:24,489 WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007D60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:28,544 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007A60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:28,544 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007A60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:28,544 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007A60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:28,544 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007A60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:28,544 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007A60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:28,544 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007A60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:28,544 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007A60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:28,544 WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026B21007A60>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/0fca1b482fec30c0530fa22aa4a24b65
+2022-10-18 10:19:32,627 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-18 10:19:32,627 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-18 10:19:32,627 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-18 10:19:32,627 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-18 10:19:32,627 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-18 10:19:32,627 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-18 10:19:32,627 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-18 10:19:32,627 INFO:  Paso 01: test_recuperar_informacion......BIEN
+2022-10-18 10:19:32,627 INFO: 
+2022-10-18 10:19:32,627 INFO: 
+2022-10-18 10:19:32,627 INFO: 
+2022-10-18 10:19:32,627 INFO: 
+2022-10-18 10:19:32,627 INFO: 
+2022-10-18 10:19:32,627 INFO: 
+2022-10-18 10:19:32,627 INFO: 
+2022-10-18 10:19:32,627 INFO: 
+2022-10-18 10:19:32,628 INFO: Fin: 2022-10-18 10:19:32
+2022-10-18 10:19:32,628 INFO: Fin: 2022-10-18 10:19:32
+2022-10-18 10:19:32,628 INFO: Fin: 2022-10-18 10:19:32
+2022-10-18 10:19:32,628 INFO: Fin: 2022-10-18 10:19:32
+2022-10-18 10:19:32,628 INFO: Fin: 2022-10-18 10:19:32
+2022-10-18 10:19:32,628 INFO: Fin: 2022-10-18 10:19:32
+2022-10-18 10:19:32,628 INFO: Fin: 2022-10-18 10:19:32
+2022-10-18 10:19:32,628 INFO: Fin: 2022-10-18 10:19:32
